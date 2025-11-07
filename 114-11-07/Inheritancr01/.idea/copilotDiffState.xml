@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/src/Main.java">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/src/Main.java" />
+              <option name="originalContent" value="//TIP To &lt;b&gt;Run&lt;/b&gt; code, press &lt;shortcut actionId=&quot;Run&quot;/&gt; or&#10;// click the &lt;icon src=&quot;AllIcons.Actions.Execute&quot;/&gt; icon in the gutter.&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        SwordsMan swordsMan = new SwordsMan(&quot;亞瑟&quot;, 30, 7);&#10;        Magician magician = new Magician(&quot;梅林&quot;, 25, 5);&#10;&#10;        System.out.println(&quot;戰鬥開始：&quot; + swordsMan.getName() + &quot; vs &quot; + magician.getName());&#10;&#10;        for (int i = 1; i &lt;= 5; i++) {&#10;            //TIP Press &lt;shortcut actionId=&quot;Debug&quot;/&gt; to start debugging your code. We have set one &lt;icon src=&quot;AllIcons.Debugger.Db_set_breakpoint&quot;/&gt; breakpoint&#10;            // for you, but you can always add more by pressing &lt;shortcut actionId=&quot;ToggleLineBreakpoint&quot;/&gt;.&#10;            System.out.println(&quot;i = &quot; + i);&#10;        }&#10;    }&#10;}" />
+              <option name="updatedContent" value="//TIP To &lt;b&gt;Run&lt;/b&gt; code, press &lt;shortcut actionId=&quot;Run&quot;/&gt; or&#10;// click the &lt;icon src=&quot;AllIcons.Actions.Execute&quot;/&gt; icon in the gutter.&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        SwordsMan swordsMan = new SwordsMan(&quot;亞瑟&quot;, 30, 7);&#10;        Magician magician = new Magician(&quot;梅林&quot;, 25, 5);&#10;&#10;        System.out.println(&quot;戰鬥開始：&quot; + swordsMan.getName() + &quot; vs &quot; + magician.getName());&#10;&#10;        for (int i = 1; i &lt;= 5; i++) {&#10;            //TIP Press &lt;shortcut actionId=&quot;Debug&quot;/&gt; to start debugging your code. We have set one &lt;icon src=&quot;AllIcons.Debugger.Db_set_breakpoint&quot;/&gt; breakpoint&#10;            // for you, but you can always add more by pressing &lt;shortcut actionId=&quot;ToggleLineBreakpoint&quot;/&gt;.&#10;            System.out.println(&quot;i = &quot; + i);&#10;        }&#10;    }&#10;}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
